@@ -56,6 +56,6 @@ st.markdown('Cryptocurrency exchange rate')
 st.bar_chart(crypto_exchange, x = 'DATE', y = 'USD')
 
 # adding a section
-st.markdown('Data is provided by the the Coinsup API and available for the following crypto coins: Bitcoin, Ethereum, Bitcoin-Cash, EOS, Stellar, Litecoin, Cardano, Tether, IOTA, TRON')
+st.markdown('Data is provided by the the CoinCap API and available for the following crypto coins: Bitcoin, Ethereum, Bitcoin-Cash, EOS, Stellar, Litecoin, Cardano, Tether, IOTA, TRON')
 st.markdown("Text me on Telegram: https://t.me/gavrilov_se")
 st.markdown("CV, Courses & Certificates: https://beacons.ai/gavrilov")
